@@ -1,0 +1,11 @@
+.rit_logo {
+    width: 15%;
+    margin: 2%;
+}
+
+.Login {
+    background-color: #FFFFFF;
+    min-height: 100vh;
+    font-size: calc(10px + 2vmin);
+    color: rgb(29, 25, 20);
+}
