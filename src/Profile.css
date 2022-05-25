@@ -54,8 +54,8 @@
 
 .icon4{
     margin-left: 31px;
-    width: 72%;
-    height: 117px;
+    width: 84% !important;
+    height: 117px !important;
 }
 .icon9{
     position: absolute;
@@ -81,7 +81,7 @@
 
 .name1{
 
-    margin-left: 1px;
+    margin-left: 155px;
 }
 .Account1{
     text-align: center;
@@ -149,7 +149,7 @@ width: 99%; */
     align-items: center;
     justify-content: space-between;
     display: flex;
-    width: 152px;
+    width: 165px;
     flex-direction: row;
     background-color: white;
 
