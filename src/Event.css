@@ -8,11 +8,11 @@
 }
 
 .img1 {
-    width: 95%;
-    height: 100%;
+    /* width: 95%;
+    height: 100%; */
     display: block;
-    /* width: 383px;
-    height: 215px; */
+    width: 383px;
+    height: 215px;
     border-radius: 16px;
 
 
@@ -30,26 +30,26 @@
 
 .img2 {
     box-shadow: 5px 10px 8px #888888;
-    width: 95%;
-    height: 100%;
+    /* width: 95%;
+    height: 100%; */
     border-radius: 16px;
     display: flex;
     flex-direction: row;
     display: block;
-    /* width: 383px;
-    height: 222px; */
+    width: 383px;
+    height: 222px;
     border-radius: 16px;
 }
 
 .img3 {
     box-shadow: 5px 10px 8px #888888;
-    width: 95%;
-    height: 100%;
+    /* width: 95%;
+    height: 100%; */
     border-radius: 16px;
     display: flex;
     flex-direction: row;
-    /* width: 383px;
-    height: 222px; */
+    width: 383px;
+    height: 222px;
     border-radius: 16px;
 }
 
@@ -453,7 +453,7 @@
 }
 
 .img8 {
-        box-shadow: 5px 10px 8px #888888;
+        /* box-shadow: 5px 10px 8px #888888; */
 width: 100%;
 height: 100%;
     display: flex;
@@ -467,3 +467,65 @@ height: 100%;
         height: 100px;
     }
 }
+.club{
+    display: flex;
+    flex-direction: row;
+}
+
+.img8{
+    width: 20%;
+height: 181px;
+
+}
+.img9{
+    height: 181px;
+    width: 20%;
+}
+.img10{
+    height: 181px;
+    width: 20%;
+}
+.img11{
+    height: 181px;
+    width: 20%;
+}
+.img12{
+    height: 181px;
+    width: 20%;
+}
+.img13{
+    height: 181px;
+    width: 20%;
+}
+.img14{
+    height: 181px;
+width: 20%;
+}
+
+
+
+
+.img15{
+    height: 181px;
+    width: 20%;
+    }
+.img16{
+    height:181px;
+        width: 20%;
+        }
+.img17{
+    height:181px;
+
+         width: 20%;
+            }
+ .img18{
+    height:181px;
+
+     width: 20%;
+       }
+  .img19{
+    height:181px;
+
+     width: 20%;
+    }
+                

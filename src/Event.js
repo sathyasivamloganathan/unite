@@ -7,6 +7,21 @@ import Image4 from "./Images/blog.jpg";
 import Image5 from "./Images/clicks.jpg";
 import Image6 from "./Images/podcast.jpg";
 import Image7 from "./Images/tech.jpg";
+import Image8 from "./Images/techspark.jpg";
+import Image9 from "./Images/space.jpg";
+import Image10 from "./Images/steam.jpg";
+import Image11 from "./Images/rotcract.jpg";
+import Image12 from "./Images/podcast1.jpg";
+import Image13 from "./Images/NSS.jpg";
+import Image14 from "./Images/maths.jpg";
+import Image15 from "./Images/photography.jpg";
+import Image16 from "./Images/UBA.jpg";
+import Image17 from "./Images/language.jpg";
+import Image18 from "./Images/YRC.jpg";
+import Image19 from "./Images/women.jpg";
+
+
+
 function Event() {
     return (
         <div className="Event1">
@@ -27,11 +42,46 @@ function Event() {
                 </div>
                 <div className="head3">
                     <img className="img3" src={Image3} alt=""></img>
+<div className=""></div>
                     <div className="overlay3">
                         <div className="text3" >Vaweez3</div>
                     </div>
                 </div>
             </div>
+          
+<h2>Club</h2>
+<div className="club">
+
+<img className="img8" src={Image8} alt=""></img> 
+            <img className="img9" src={Image9} alt=""></img> 
+            <img className="img10" src={Image10} alt=""></img> 
+            <img className="img11" src={Image11} alt=""></img> 
+            <img className="img12" src={Image12} alt=""></img> 
+            <img className="img13" src={Image13} alt=""></img> 
+            <img className="img14" src={Image14} alt=""></img> 
+
+            <img className="img15" src={Image15} alt=""></img> 
+            <img className="img16" src={Image16} alt=""></img> 
+            <img className="img17" src={Image17} alt=""></img> 
+            <img className="img18" src={Image18} alt=""></img> 
+            <img className="img19" src={Image19} alt=""></img> 
+
+            {/* 
+            <img className="img11" src={Image11} alt=""></img> 
+       */}
+
+            </div>
+
+            
+            {/* 
+            <img className="img13" src={Image13} alt=""></img> 
+            <img className="img14" src={Image13} alt=""></img> 
+         */}
+
+
+
+
+         
             <div className="Quickies">
                 <h2>Quickes</h2>
                 <div className="quick">
