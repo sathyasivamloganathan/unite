@@ -12,7 +12,11 @@ function Events() {
                 <div className='event-name'>Vawez</div>
             </div>
 
-            <div className='event-img'><img src={require('./unite.png')} alt="" className='event-img'></img></div>
+            <div className='col image'>
+                <div className='event-img'><img src={require('./events-img-1.jpg')} alt="" className='event-img'></img></div>
+                <div className='event-img'><img src={require('./events-img-2.jpg')} alt="" className='event-img'></img></div>
+            </div>
+           
 
             <p className='Event_description'>
                 Event Description

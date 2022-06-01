@@ -7,9 +7,12 @@
     margin-top: 40px;
 }
 
+.image{
+    margin-right: 0px;
+}
+
 .event-img{
-    width: 350px;
-    background: rgb(226, 160, 160);
+    width: 300px;
     display: flex;
     flex-wrap:wrap;
     margin: auto;
@@ -62,4 +65,10 @@
     flex-wrap: wrap;
     margin: auto;
     width: 200px;
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+
+.btn-primary{
+    width:300px
 }
