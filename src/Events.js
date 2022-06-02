@@ -8,14 +8,15 @@ function Events() {
     return(
         <div className='col'>
             
-            <div className="col">
+            <div className="col" >
                 <div className='event-name'>Vawez</div>
             </div>
 
-            <div className='col image'>
-                <div className='event-img'><img src={require('./events-img-1.jpg')} alt="" className='event-img'></img></div>
-                <div className='event-img'><img src={require('./events-img-2.jpg')} alt="" className='event-img'></img></div>
+            <div className='row image' style={{marginRight: 0}}>
+                <div className='col event-img'><img src={require('./events-img-1.jpg')} alt="" className='event-img'></img></div>
+                <div className='col event-img'><img src={require('./events-img-2.jpg')} alt="" className='event-img'></img></div>
             </div>
+        
            
 
             <p className='Event_description'>
