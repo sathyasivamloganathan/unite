@@ -1,0 +1,39 @@
+
+
+.unite-blogs{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: auto;
+}
+
+.cards-separate{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width:770px){
+    .cards-separate{
+       width:300px
+    }
+}
+
+.text{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.back-button{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
